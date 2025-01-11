@@ -26,13 +26,12 @@
 //  * @description : Manu-MD ,A Multi-functional whatsapp user bot.
 //*
 //*
-//base by Manul Official
-//GitHub: @manulofficial7
-//WhatsApp: +94742274855
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
-//   * Created By Github: manulofficial7.
-//   * Credit To Manul Official
-//   * © 2024 MANU-MD-V7.
+//base by Digi-Treasure
+//GitHub: Dark-Ghost0
+//WhatsApp: +923174561078
+//   * Created By Github: 
+//   * Credit To 
+//   * © 2024 Digi-Treasure.
 // ⛥┌┤
 // */
 
@@ -43,7 +42,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "put your session id",
-GITHUB_USERNAME: process.env.GITHUB_USERNAME || "put your github usearname correctly",
-GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "put your github auth token",
+SESSION_ID: process.env.SESSION_ID || "Manu-MD&PZFG0bAC#Pk6GJUXZIewPT4yrAZ-haSSzv5aV4PNBXgyK6S2HJ8w",
+GITHUB_USERNAME: process.env.GITHUB_USERNAME || "Dark-Ghost0",
+GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "ecwD5Z0hKL6SfRNT6eeBVVDk8Iht3B1p6rLN",
 };
